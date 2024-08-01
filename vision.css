@@ -1,0 +1,57 @@
+.header{
+    background-color: blue;
+    color: white;
+    height: 80px;
+    text-align: center;
+    padding-top: 1em;
+   
+
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+
+}
+.image{
+    border: 2px black solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px  orange ;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+.head{
+    text-align: center;
+}
+
+ table,th , td{
+    border: 2px black solid;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+th{
+    background-color: blue;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 2em;
+    text-align: center;
+    height: 80px;
+
+}
+
